@@ -1,0 +1,29 @@
+<template>
+    <div>
+       
+            <div class="row">
+                <div class="col-12 p-0 d-flex align-items-center justify-content-center">
+                    <h2>Content</h2> 
+                    </div>
+            </div>
+       
+    </div>
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style lang="scss" scoped>
+ .row{
+     background: #C4C4C4;
+     height: 350px;
+     padding: 0px;
+     h2{
+        color: #ffffff;
+        text-align: center;
+     }
+ }
+</style>
